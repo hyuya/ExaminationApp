@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     /// 選択中の演算子
     private var selectedOperator = '+'
     
+    
     /// 値1の入力フィールド
     @IBOutlet private var value1: UITextField!
     /// 値2の入力フィールド
